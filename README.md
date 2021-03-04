@@ -9,3 +9,5 @@
  string converter means dto to object converter not added bcoz of time issue.
  5.photographer details considerd as who uploads the media means saved user
  6.adding user also same as adding media .profile pic can be added during update taking file as multipart file
+ 7.#new updates date 3/4/2021
+ 8.i have developed completed application as per requeriment and alose developed access token authentication using jwt,resource support ,eureka and feign .the file is not uploaded to git.i will show coplete demo if u give me chance.
